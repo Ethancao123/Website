@@ -1,4 +1,4 @@
 # Website
 website stuffs
 yo
-<ethanc.photos>
+<http://ethanc.photos>
