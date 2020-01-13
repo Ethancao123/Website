@@ -1,4 +1,4 @@
 # Website
 website stuffs
 yo
-ethanc.photos
+see website [here](ethanc.photos)
