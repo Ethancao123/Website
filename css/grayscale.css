@@ -3,8 +3,7 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
-
-#mainNav {
+ #mainNav {
   min-height: 56px;
   background-color: #fff;
 }
@@ -85,7 +84,7 @@
 }
 
 .masthead {
-  position: relative;
+  position: static;
   width: 100%;
   height: auto;
   min-height: 35rem;
@@ -95,6 +94,7 @@
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+  z-index: 10;
 }
 
 .masthead h1 {
